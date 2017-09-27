@@ -166,5 +166,12 @@
             </plugin>
         </plugins>
     </build>
+    
+    <developers>
+    	<developer>
+    		<name>Bruno Ramos</name>
+    		<email>b@gmail.com</email>
+    	</developer>
+    </developers>
 
 </project>
