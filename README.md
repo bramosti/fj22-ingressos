@@ -1,1 +1,4 @@
-Estou aprendendo sobre Git
+* Iniciando o projeto
+
+* Bruno esta desenvolvendo 
+

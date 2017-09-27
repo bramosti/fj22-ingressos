@@ -7,7 +7,7 @@
     <groupId>br.com.caelum</groupId>
     <artifactId>ingresso</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>maven-plugin</packaging>
 
 
     <properties>
@@ -173,5 +173,12 @@
     		<email>b@gmail.com</email>
     	</developer>
     </developers>
+
+<developers>
+	<developer>
+		<name>Bruno Ramos</name>
+		<email>brunorr90@gmail.com</email>
+	</developer>	
+</developers>
 
 </project>
